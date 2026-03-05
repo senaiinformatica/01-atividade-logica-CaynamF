@@ -3,3 +3,8 @@
 # Arquivos especificos
 dreamcore.jpg
 
+# Arquivos em diretorios especificos
+/proibidos
+
+# Extensoes proibidas
+*.exe
